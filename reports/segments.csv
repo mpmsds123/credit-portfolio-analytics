@@ -1,0 +1,5 @@
+segment,accounts,default_rate,avg_utilization,avg_payment_ratio,avg_limit,avg_balance,profit_per_acct,archetype
+0,5784,0.1025,0.227,0.258,324433.0,78940.0,9963.0,"Prime (high limit, low utilization)"
+1,10831,0.1655,0.733,0.095,94914.0,72061.0,4997.0,"Revolvers (carry balance, profitable)"
+2,8198,0.1716,0.027,1.023,201869.0,4058.0,146.0,"Transactors (pay-in-full, low balance)"
+3,5187,0.5481,0.611,0.098,89662.0,51349.0,-14153.0,"Distressed (high default, reprice/exit)"

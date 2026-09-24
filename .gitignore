@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.venv/
+# Generated artifacts (reproducible via the scripts). Keep the DB out of git;
+# regenerate with src/00_build_database.py.
+data/credit.db
+data/scored_accounts.csv
+
+# private / local only
+INTERVIEW_DEFENSE.md
+.DS_Store

@@ -1,0 +1,15 @@
+{
+  "current_apr": 0.22,
+  "baseline_total_profit": 52734634.0,
+  "declined_deciles": [
+    7,
+    8,
+    9,
+    10
+  ],
+  "accounts_declined": 12000,
+  "pct_book_declined": 40.0,
+  "profit_after_policy": 149643524.0,
+  "profit_lift": 96908890.0,
+  "profit_lift_pct": 183.8
+}
