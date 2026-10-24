@@ -56,7 +56,7 @@ streamlit run dashboard/app.py      # interactive dashboard
 Sex, marital status, and age are **excluded from the model** — under US
 fair-lending law (ECOA / Reg B) these cannot drive credit decisions. They are
 retained only to test the model for disparate impact (mean predicted PD differs
-<2 points by sex). Underwriting features are behavioral/financial only.
+2.05 points by sex: 41.37% female vs. 43.42% male). Underwriting features are behavioral/financial only.
 
 ## Data & assumptions
 
